@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm full stack developer intern at Rajarshi Shahu Mahavidyalaya on the production server by using the technologies like WAMP stack and the PHP frameworks like Laravel and with the database MySql
+I'm passionate Full Stack Developer, I specialize in building high-performance web applications using PHP, Laravel, and the WAMP stack. My journey has taken me from impactful internships to exciting freelance projects, where I’ve delivered user-focused solutions for clients.
 
 
 ## 🌐 Socials:
