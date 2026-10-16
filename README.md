@@ -1,118 +1,281 @@
-<div align="center">
+::: {align="center"}
+# Hey, I'm Ashutosh Pichare 👋
 
-# Ashutosh Pichare
+### Backend-focused Software Engineer · PHP & Laravel · Building practical products
 
-### Backend Software Engineer · PHP & Laravel Ecosystem
+I build web applications that solve real business problems --- from SaaS
+workflows and learning platforms to healthcare systems, APIs, and
+third-party integrations.
 
-Building resilient backend architectures, production APIs, and scalable web platforms.
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashutosh-pichare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ashutosh-139"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ashutoshpichare999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://medium.com/@pichareashu"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+```{=html}
+<p>
+```
+`<a href="https://github.com/ashutosh-139">`{=html}`<img src="https://img.shields.io/badge/GitHub-ashutosh--139-181717?style=for-the-badge&logo=github" alt="GitHub"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/ashutosh-pichare">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>`{=html}`</a>`{=html}
+`<a href="mailto:ashutoshpichare999@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
+`<a href="https://medium.com/@pichareashu">`{=html}`<img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium" alt="Medium"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
+`<img src="https://komarev.com/ghpvc/?username=ashutosh-139&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>`{=html}
+:::
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutosh-139&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+------------------------------------------------------------------------
 
-</div>
+## 🧭 About me
 
----
+I'm a software developer with **1+ year of professional experience** and
+broader hands-on experience building and deploying web applications. My
+core strength is backend development with **PHP, Laravel, and MySQL**
+--- especially turning business requirements into maintainable features,
+APIs, and production workflows.
 
-## ⚡ About Me
+-   🧩 Building and maintaining **HRMS, ERP, LMS, healthcare, and
+    e-commerce** applications.
+-   🔌 Working with REST APIs, authentication, payment gateways, cloud
+    object storage, and third-party services.
+-   🚀 Experienced with deployments and troubleshooting in **Linux,
+    cPanel, and Plesk** environments.
+-   🧠 Exploring AI/ML integrations and ways to bring useful AI
+    capabilities into real products.
+-   📚 Continuously improving my skills in software design, problem
+    solving, cloud, and modern development practices.
+-   🤝 Interested in backend/full-stack roles, meaningful
+    collaborations, and practical product work.
 
-I am a software engineer focused on building robust backend systems, RESTful microservices, and practical SaaS platforms. My daily work revolves around turning complex business workflows into maintainable, well-tested code.
+> **My approach:** understand the problem, build the simplest reliable
+> solution, test the important paths, and make it work in production.
 
-- 💼 **Primary Focus:** Backend engineering with **PHP & Laravel**, relational database architecture with **MySQL**, and API integrations.
-- 🏗️ **Domain Experience:** Multi-tenant SaaS, HRMS/ERP systems, Learning Management Platforms (SCORM/LMS), and Healthcare scheduling portals.
-- ⚙️ **Infrastructure & Ops:** Deployments and system monitoring across Linux environments, Plesk, cPanel, and cloud object storage (S3 / Wasabi).
-- 🔬 **Current Interests:** Designing event-driven workflows, optimizing database queries at scale, and integrating applied AI/LLM toolchains into existing web applications.
+## 🛠️ Tech stack
 
----
+### Backend & APIs
 
-## 🛠️ Technical Arsenal
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![REST
+API](https://img.shields.io/badge/REST_APIs-2F6F9F?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-| Layer | Technologies & Tools |
-| :--- | :--- |
-| **Backend & Core** | `PHP` `Laravel` `CodeIgniter` `Python` `RESTful APIs` `OOP / MVC` |
-| **Databases & Cache** | `MySQL` `Eloquent ORM` `Database Design` `Query Optimization` |
-| **Cloud & DevOps** | `Linux (Ubuntu/Debian)` `S3 / Wasabi` `GitHub Actions` `cPanel` `Plesk` `Nginx` |
-| **Integrations** | `Razorpay` `Cashfree` `PayPal` `Meta / WhatsApp APIs` `OpenAI / Claude APIs` |
-| **Frontend Basics** | `JavaScript` `Bootstrap` `Tailwind CSS` `Blade` `React (Foundations)` |
+### Frontend
 
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,linux,git,githubactions,nginx,bootstrap,js" alt="Tech Stack Icons" />
-</div>
+### Data, integrations & infrastructure
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Amazon
+S3](https://img.shields.io/badge/S3--compatible_storage-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub
+Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Wasabi](https://img.shields.io/badge/Wasabi_Cloud_Storage-01A982?style=flat-square)
+![Cashfree](https://img.shields.io/badge/Cashfree_Payments-2B6CB0?style=flat-square)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 
-## 🚀 Featured Engineering Work
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}More about my technical toolkit`</strong>`{=html}
+```{=html}
+</summary>
+```
+-   **Application engineering:** MVC, OOP, validation,
+    authentication/authorization, database design, query optimization,
+    file handling, background jobs, scheduled tasks.
+-   **Integrations:** Cashfree, Razorpay, PayPal, WhatsApp Business/Meta
+    APIs, AI/ML service APIs.
+-   **Storage & deployment:** Wasabi (S3-compatible object storage),
+    Linux hosting, cPanel, Plesk, FTP-based deployments, GitHub Actions.
+-   **AI/ML experimentation:** Python, Streamlit, face-recognition
+    workflows, model/API integrations, image-processing pipelines.
+-   **Other exposure:** React Native, Node.js ecosystem, FFmpeg,
+    ImageMagick, SCORM content delivery and LMS workflows.
 
-### 🏢 Multi-Tenant HRMS & ERP SaaS Platform
-*Scalable operations platform managing workforce analytics, payroll, and geofenced attendance.*
-- Architected modular database schemas for attendance validation, geofencing coordinates, and role-based permissions (RBAC).
-- Engineered background jobs and scheduled tasks for report generation and payroll computation.
-- **Stack:** `Laravel` `MySQL` `REST APIs` `S3-Compatible Storage` `Linux`
+```{=html}
+</details>
+```
+## 🚀 Selected work
 
----
+These are representative projects and areas I've worked on. Some are
+professional or private projects, so not every codebase is publicly
+available.
 
-### 🎓 SCORM-Compliant Learning Management System (LMS)
-*High-throughput education platform handling course asset distribution and dynamic document conversion.*
-- Resolved cross-origin asset isolation, MIME type handling, and secure iframe sandboxing for legacy SCORM packages.
-- Built automated import pipelines for dynamic document parsing and mathematical formula rendering.
-- **Stack:** `PHP` `Laravel` `Nginx` `SCORM Engine` `Linux Hosting`
+```{=html}
+<details open>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}🏢 HRMS / ERP SaaS platform`</strong>`{=html}
+```{=html}
+</summary>
+```
+A business application focused on day-to-day workforce and operational
+workflows.
 
----
+-   Worked across modules such as attendance, geofencing, payroll, and
+    HR operations.
+-   Built backend functionality, database-driven workflows, and API
+    integrations.
+-   Worked on deployment and production troubleshooting.
 
-### 🏥 MedSphere Pro — Healthcare Appointment Engine
-*Role-driven scheduling engine designed for clinics, medical staff, and patients.*
-- Implemented state-machine booking workflows to eliminate double-booking conflicts across clinic schedules.
-- Structured end-to-end authentication, appointment lifecycle events, and patient records access control.
-- **Stack:** `Laravel 11` `Blade` `MySQL` `Eloquent` `Bootstrap`
+**Core technologies:** PHP · Laravel · MySQL · REST APIs · Cloud storage
 
----
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}🎓 Learning Management System (LMS)`</strong>`{=html}
+```{=html}
+</summary>
+```
+An LMS workflow involving course content, learner experiences, document
+imports, and SCORM packages.
 
-### 🧠 Applied AI & Computer Vision Experiments
-*Bridging standalone machine learning models to consumer-facing product workflows.*
-- Integrated facial recognition pipelines using Python and Streamlit for verification experiments.
-- Connected automated image processing pipelines and third-party LLM endpoints into web backends.
-- **Stack:** `Python` `Streamlit` `OpenCV` `FastAPI / REST`
+-   Worked on course and lesson content delivery, including SCORM
+    assets.
+-   Investigated production differences involving MIME types, iframe
+    rendering, and file permissions.
+-   Worked on document-import workflows and embedded equation/image
+    conversion.
 
----
+**Core technologies:** Laravel · PHP · MySQL · SCORM · Linux · Nginx
 
-## 📊 Activity & Metrics
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}🏥 MedSphere Pro --- healthcare appointment
+booking`</strong>`{=html}
+```{=html}
+</summary>
+```
+A Laravel-based hospital appointment-booking application built with an
+MVC structure and Eloquent ORM.
 
-<div align="center">
+-   Authentication and role-aware application flows.
+-   Appointment scheduling and dashboard functionality.
+-   Database integration and responsive user-facing screens.
 
-<table border="0">
-  <tr>
-    <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ashutosh-139&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=555555&bg_color=00000000" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-139&layout=compact&hide_border=true&title_color=2563eb&text_color=555555&bg_color=00000000" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+**Core technologies:** Laravel 11 · PHP · MySQL · Blade
 
-<img src="https://streak-stats.demolab.com?user=ashutosh-139&hide_border=true&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakNum=2563eb&sideNums=2563eb&sideLabels=555555&dates=555555&background=00000000" alt="GitHub Streak" />
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}🧠 AI-enabled applications &
+integrations`</strong>`{=html}
+```{=html}
+</summary>
+```
+Exploring practical ways to connect AI/ML services to web applications.
 
-</div>
+-   Worked with Python-based face-recognition components and Streamlit
+    workflows.
+-   Explored third-party AI services for image generation/editing and
+    related features.
+-   Focused on connecting service APIs to usable product workflows.
 
----
+**Core technologies:** Python · Streamlit · API integrations · AI/ML
+services
 
-<div align="center">
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}🏫 Digital Teaching Diary & college
+systems`</strong>`{=html}
+```{=html}
+</summary>
+```
+Academic and administrative applications designed to simplify everyday
+institutional processes.
 
-### Let's Build Something Dependable
+-   Digital Teaching Diary workflows for tasks and attendance.
+-   College-management and complaint/feedback workflows in earlier
+    project work.
 
-Open to backend software engineering roles, contract projects, and open-source collaboration.
+**Core technologies:** PHP · MySQL · HTML · CSS · JavaScript
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-pichare)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshpichare999@gmail.com)
-[![Repositories](https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashutosh-139?tab=repositories)
+```{=html}
+</details>
+```
+👉 Explore the code and public projects in my **[GitHub
+repositories](https://github.com/ashutosh-139?tab=repositories)**. For
+professional work, please contact me if you'd like more detail about my
+specific contribution.
 
-</div>
+## 📊 GitHub at a glance
+
+::: {align="center"}
+`<a href="https://github.com/ashutosh-139">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashutosh-139&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ashutosh's GitHub stats"/>`{=html}
+`</a>`{=html} `<a href="https://github.com/ashutosh-139">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-139&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>`{=html}
+`</a>`{=html}
+
+`<br/>`{=html}
+
+`<a href="https://git.io/streak-stats">`{=html}
+`<img src="https://streak-stats.demolab.com?user=ashutosh-139&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>`{=html}
+`</a>`{=html}
+:::
+
+`<sub>`{=html}Stats are generated by third-party services and may
+occasionally be unavailable or differ from GitHub's own totals. Language
+cards reflect repository composition, not a complete measure of
+skill.`</sub>`{=html}
+
+## 🎯 What I'm focusing on
+
+-   Writing cleaner, more maintainable backend code.
+-   Improving database performance and API reliability.
+-   Learning more about cloud infrastructure, automation, and deployment
+    practices.
+-   Exploring AI/ML integrations that solve concrete product problems.
+-   Contributing more consistently to public projects and developer
+    communities.
+
+## 🤝 Let's connect
+
+Have a backend problem to solve, a product idea, or an opportunity to
+collaborate?
+
+::: {align="center"}
+`<a href="mailto:ashutoshpichare999@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/ashutosh-pichare">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/ashutosh-139?tab=repositories">`{=html}`<img src="https://img.shields.io/badge/Explore-My%20repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>`{=html}`</a>`{=html}
+
+**Thanks for stopping by! If something here is useful, feel free to
+explore, connect, or collaborate.** ✨
+:::
